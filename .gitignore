@@ -1,0 +1,6 @@
+### Pyton template
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+log/
+resourses/products.json
